@@ -1,2 +1,2 @@
 HALLO TEMAN TEMAN
-<img src='baner 1.png'/>
+<img src='Baner 1.png'/>
