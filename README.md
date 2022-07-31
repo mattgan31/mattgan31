@@ -1,4 +1,4 @@
-[![Header]<img src='Baner 1.png'/>]
+<img src='Baner.png'/>
 
 # Halo 👋
 
