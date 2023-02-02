@@ -1,12 +1,11 @@
-<img src='Baner.png'/>
-
 # Hello World! 👋
 
-My name is Rahmat Alamsyah and im a Website Developer & UI/UX Designer.
+## About me
+My name is Rahmat Alamsyah and im a Junior Backend Developer & Website Developer. I love technology, especially software development
 
-Visit my Social Media 
-<a href="https://linkedin.com/in/rahmat-alamsyah">LinkedIn</a>
-<a href="https://instagram.com/rahmatalamsyah2">Instagram</a>
+## Visit my Social Media <br>
+ [LinkedIn](https://linkedin.com/in/rahmat-alamsyah) <br>
+ [Instagram](https://instagram.com/rahmatalamsyah2)
 
-<h4>Work on Linux Mint & Windows 11</h4>
 
+### Works with Zorin OS (Linux) & Windows 11
