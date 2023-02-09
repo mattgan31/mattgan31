@@ -4,11 +4,18 @@
 body {
   background-color: #161853;
 }
+
 #about {
   color: #ec255a;
   height: 400px;
   text-align: center;
   padding: 160px 0 160px 0;
+}
+#about .desc p {
+  width: 60%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 #tools {
   height: 320px;
@@ -73,4 +80,24 @@ body {
 .btn-primary:hover {
   background-color: #8d1831 !important;
   border: 1px solid #8d1831;
+}
+
+@media all and (max-width: 1080px) {
+  #about .desc p {
+    width: 80%;
+  }
+  #tools .items .item {
+    width: 80px;
+    height: 80px;
+    border-radius: 10%;
+  }
+  #tools .items .item img {
+    padding: 10px;
+    width: 80px;
+    height: 80px;
+  }
+  #projects {
+    justify-items: center;
+    padding: 32px 0 32px 0;
+  }
 }
