@@ -8,4 +8,4 @@ My name is Rahmat Alamsyah and im a Junior Backend Developer & Website Developer
  [Instagram](https://instagram.com/rahmatalamsyah2)
 
 
-### Works with Zorin OS (Linux) & Windows 11
+### Works with Windows 10
