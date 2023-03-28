@@ -1,7 +1,7 @@
 # Hello World! 👋
 
 <div>
-<p>I'm Rahmat Alamsyah, im from Indonesia. I always try to remember the following quote <b>"Success isn't always about greatness. It's about consistency. Consistent hard work leads to success. Greatness will come."</b> Because I'm trying to be better</p>
+<p>I'm Rahmat Alamsyah, im from Indonesia. I always try to remember the following quote <b>"Success isn't always about greatness. It's about consistency. Consistent hard work leads to success. Greatness will come."</b> Because I'm trying to do better</p>
 
 </div>
 
