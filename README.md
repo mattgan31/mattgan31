@@ -7,21 +7,19 @@
 
 ## 🧰 Some Tools What I use
 
-![PHPBadge](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![GoBadge](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
-![PythonBadge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![RubyBadge](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)
-![LaravelBadge](https://img.shields.io/badge/-Laravel-FF2D20?logo=Laravel&logoColor=white&style=for-the-badge)
-![RubyonrailsBadge](https://img.shields.io/badge/-Rails-CC0000?logo=Rubyonrails&logoColor=white&style=for-the-badge)
-![HTMLBadge](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSSBadge](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)
-![LinuxBadge](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=9e061b)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=9e061b)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9e061b)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=9e061b)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=9e061b)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=9e061b)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=9e061b)
 
-### 📈 My Progress
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mattgan31&show_icons=true&theme=dracula)
+### 📈 My Focus
+- Im focusing on build API using Javascript (Express.js & NestJS)
+- Learning Frontend using React & NextJS
 
 ## Visit my Social Media <br>
 
-[![LinkedinBadge](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://linkedin.com/in/rahmat-alamsyah)](https://linkedin.com/in/rahmat-alamsyah)
-[![InstagramBadge](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge&link=https://instagram.com/rahmat.code)](https://instagram.com/rahmat.code)
+[![](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat&link=https://linkedin.com/in/rahmat-alamsyah)](https://linkedin.com/in/rahmat-alamsyah)
+[![](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat&link=https://instagram.com/rahmat.code)](https://instagram.com/rahmat.code)
