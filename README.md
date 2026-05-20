@@ -1,5 +1,5 @@
 ## Hi, I'm Rahmat 👋
-### Software Engineer | Full-Stack (Ruby on Rails, Golang, Next.js)
+### Software Engineer | Full-Stack (Ruby on Rails, Golang, Next.js, Laravel)
 
 I'm Rahmat Alamsyah, a Full-Stack Developer from Indonesia.
 I enjoy building scalable web applications, clean APIs, and maintainable systems with a strong focus on backend logic and performance.
@@ -7,7 +7,7 @@ I enjoy building scalable web applications, clean APIs, and maintainable systems
 ---
 
 ### 🛠 Tech Stack
-- **Backend:** Ruby on Rails, Golang
+- **Backend:** Ruby on Rails, Golang, PHP (Laravel)
 - **Frontend:** Next.js, Tailwind CSS
 - **Database:** PostgreSQL, Redis
 - **Auth & API:** JWT, REST API
